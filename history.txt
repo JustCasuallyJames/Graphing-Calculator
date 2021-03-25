@@ -1,0 +1,13 @@
+cos ( x )
+sin ( x )
+log ( 5 x )
+log ( 10 x )
+ln ( x )
+x ^ ( 1 / 2 )
+x ^ 2
+1 / tan ( x )
+cos ( ln ( x ^ 2 ) )
+e ^ x
+sin ( e ^ x )
+cos ( 2 * x )
+sin ( x )
